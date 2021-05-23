@@ -28,4 +28,16 @@ Here is the reference articles stimulated this project design:
   Hans Petter Langtange, Anders Logg
 
 
+Libraries:
 
+fenics
+
+matplotlib
+
+pyadjoint
+
+scikit-learn
+
+numpy
+
+pandas
